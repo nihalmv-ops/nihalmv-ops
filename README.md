@@ -70,15 +70,26 @@ development journey.
 ![Nihal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalmv-ops&theme=github-compact&hide_border=true)
 
 
----
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihalmv-ops)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
+<p align="center">
+  <a href="https://github.com/nihalmv-ops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nihalmv.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
+
+
 
 ### 💡 "Build. Learn. Improve. Repeat."
 
