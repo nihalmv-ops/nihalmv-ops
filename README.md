@@ -77,10 +77,10 @@ development journey.
   <a href="https://github.com/nihalmv-ops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/nihal-mv-dev/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+  <a href="https:[//www.instagram.com/YOUR-INSTAGRAM-USERNAME/](https://www.instagram.com/niihalnico/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:nihalmv.dev@gmail.com">
