@@ -77,11 +77,10 @@ development journey.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-## 🐍 Contribution Snake
+![Nihal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalmv-ops&theme=github-compact&hide_border=true)
 
-![GitHub Snake](https://raw.githubusercontent.com/nihalmv-ops/nihalmv-ops/output/github-contribution-grid-snake.svg)
 
 ---
 
