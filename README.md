@@ -63,18 +63,6 @@ development journey.
 🔗 [GitHub](https://github.com/nihalmv-ops/rgotravel)
 
 ---
-
-
-
----
-
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nihalmv-ops&theme=transparent&hide_border=true)
-
 ---
 
 ## 📈 Contribution Activity
