@@ -52,20 +52,7 @@ experiences.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-### 💼 Developer Portfolio
-
-A modern personal portfolio showcasing my projects, skills and
-development journey.
-
-**Tech:** React • JavaScript • CSS • Framer Motion
-
-🔗 [Demo Link](https://rgotravel.vercel.app/)
-🔗 [GitHub](https://github.com/nihalmv-ops/rgotravel)
-
----
----
 
 ## 📈 Contribution Activity
 
