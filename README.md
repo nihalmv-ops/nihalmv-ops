@@ -54,9 +54,6 @@ experiences.
 
 
 
-## 📈 Contribution Activity
-
-![Nihal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalmv-ops&theme=github-compact&hide_border=true)
 
 
 
