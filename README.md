@@ -98,27 +98,8 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 </div>
 
----
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nihalmv-ops&theme=tokyonight&hide_border=true&background=0D1117&ring=9B5DE5&fire=F15BB5&currStreakLabel=9B5DE5" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nihalmv-ops/nihalmv-ops/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
 
 ## 📊 GitHub Activity
 
