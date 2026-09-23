@@ -47,43 +47,7 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 ## 🛠️ Technology Stack
 
-<div align="center">
 
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,threejs,gsap" />
-
-<br><br>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-<br><br>
-
-### ☁️ Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
-
-<br><br>
-
-### 🤖 AI & Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
-
-<br><br>
-
-### 🚀 AI-Assisted Development
-
-<img src="https://img.shields.io/badge/Antigravity-AI%20Agent-7C3AED?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
 
 ---
 
