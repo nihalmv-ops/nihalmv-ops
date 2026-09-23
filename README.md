@@ -55,6 +55,20 @@ experiences.
 
 
 
+<div align="center">
+
+<!-- Animated Grape Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6f2dbd&height=220&section=header&text=NIHAL%20MV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+### ⚡ React Frontend Developer | AI Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B5DE5&center=true&vCenter=true&width=650&lines=React+Developer;JavaScript+Developer;AI+Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+
+</div>
+
+
+
+
 
 
 ## 🤝 Let's Connect
