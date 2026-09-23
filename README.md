@@ -47,46 +47,84 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 ## 🛠️ Technology Stack
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-
 <div align="center">
 
-<!-- Animated Grape Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f2dbd&height=220&section=header&text=NIHAL%20MV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+### 🎨 Frontend Development
 
-### ⚡ React Frontend Developer | AI Full-Stack Developer
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,threejs,gsap" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B5DE5&center=true&vCenter=true&width=650&lines=React+Developer;JavaScript+Developer;AI+Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<br><br>
+
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 
 </div>
 
+---
+
+### ⚡ My Development Toolkit
+
+| Area | Technologies |
+|---|---|
+| 🎨 **Frontend** | HTML5 • CSS3 • JavaScript • React • Tailwind CSS |
+| 🧊 **3D & Animation** | Three.js • GSAP |
+| ⚙️ **Backend** | Node.js • Express.js |
+| 🗄️ **Database** | MongoDB |
+| 🔧 **Development** | Git • GitHub • VS Code • npm |
+| 🎨 **Design** | Figma |
+| 🚀 **Deployment** | Vercel • Netlify • GitHub Pages |
+
+---
+
+<div align="center">
+
+### 💻 Technologies I Work With
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode,figma,vercel,netlify" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20Tailwind-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3D%20%26%20Animation-Three.js%20%7C%20GSAP-FF6B6B?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+
+React
+  ├── Advanced Components
+  ├── State Management
+  ├── API Integration
+  └── Performance
+
+JavaScript
+  ├── ES6+
+  ├── Async / Await
+  ├── APIs
+  └── Advanced Concepts
+
+Backend
+  ├── Node.js
+  ├── Express.js
+  ├── REST APIs
+  └── MongoDB
+
+Next Level
+  ├── Python
+  ├── AI / ML
+  └── AI Full-Stack Applications
 
 
 
