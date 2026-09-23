@@ -15,7 +15,7 @@
 
 About Me
 
-```js
+js
 const nihal = {
     name: "Nihal M V",
     role: "React Frontend Developer",
