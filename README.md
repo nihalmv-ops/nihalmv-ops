@@ -88,57 +88,47 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 ---
 
-## 🚀 Currently Exploring
+---
 
+## 📊 GitHub Contribution Graph
 
-⚛️ React
-  ├── Advanced Components
-  ├── State Management
-  ├── API Integration
-  ├── Performance
-  └── Modern UI
+<div align="center">
 
-🟨 JavaScript
-  ├── ES6+
-  ├── Async / Await
-  ├── APIs
-  └── Advanced Concepts
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalmv-ops&bg_color=0D1117&color=9B5DE5&line=F15BB5&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-🐍 Python
-  ├── Programming
-  ├── Data Science
-  ├── AI / ML
-  └── Automation
+</div>
 
-⚙️ Backend
-  ├── Node.js
-  ├── Express.js
-  ├── REST APIs
-  └── Authentication
+---
 
-🗄️ Database
-  ├── MongoDB
-  ├── MySQL
-  ├── PostgreSQL
-  └── SQL
+## 🔥 GitHub Streak
 
-☁️ Cloud
-  ├── AWS
-  ├── Vercel
-  ├── Netlify
-  └── Deployment
+<div align="center">
 
-🤖 AI-Assisted Development
-  ├── Antigravity
-  ├── AI Coding Agents
-  ├── AI-Powered Applications
-  └── Full-Stack AI Projects
+<img src="https://streak-stats.demolab.com?user=nihalmv-ops&theme=tokyonight&hide_border=true&background=0D1117&ring=9B5DE5&fire=F15BB5&currStreakLabel=9B5DE5" />
 
-🚀 Next Level
-  ├── AI / ML
-  ├── AI Full-Stack
-  ├── Cloud Applications
-  └── Intelligent Web Applications
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nihalmv-ops/nihalmv-ops/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nihalmv-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B5DE5&icon_color=F15BB5&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmv-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B5DE5&text_color=FFFFFF" height="180"/>
+
+</div>
 
 
 
