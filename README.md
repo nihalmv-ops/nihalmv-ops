@@ -49,57 +49,132 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 🎨 Frontend Development
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🧊 3D & Motion
-
-<img src="https://skillicons.dev/icons?i=threejs" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,threejs,gsap" />
 
 <br><br>
 
-### 🚀 Deployment
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,githubpages" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+<br><br>
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+
+<br><br>
+
+### 🤖 AI & Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+
+<br><br>
+
+### 🚀 AI-Assisted Development
+
+<img src="https://img.shields.io/badge/Antigravity-AI%20Agent-7C3AED?style=for-the-badge&logo=google&logoColor=white"/>
 
 </div>
 
+---
+
+### ⚡ My Development Toolkit
+
+| Area | Technologies |
+|---|---|
+| 🎨 **Frontend** | HTML5 • CSS3 • JavaScript • React • Tailwind CSS • Vite |
+| 🧊 **3D & Animation** | Three.js • GSAP |
+| ⚙️ **Backend** | Node.js • Express.js • Python |
+| 🗄️ **Database** | MongoDB • MySQL • PostgreSQL • SQL |
+| ☁️ **Cloud & Deployment** | AWS • Vercel • Netlify • Docker |
+| 🤖 **AI Development** | Python • AI/ML • Antigravity |
+| 🔧 **Development Tools** | Git • GitHub • VS Code • npm |
+| 🎨 **Design** | Figma |
+
+---
+
+<div align="center">
+
+### 💻 Technologies I Work With
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,python,mongodb,mysql,postgresql" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,docker,aws,vercel,netlify" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20Tailwind-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Vercel%20%7C%20Netlify-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Development-Antigravity%20%7C%20Python-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+
+⚛️ React
+  ├── Advanced Components
+  ├── State Management
+  ├── API Integration
+  ├── Performance
+  └── Modern UI
+
+🟨 JavaScript
+  ├── ES6+
+  ├── Async / Await
+  ├── APIs
+  └── Advanced Concepts
+
+🐍 Python
+  ├── Programming
+  ├── Data Science
+  ├── AI / ML
+  └── Automation
+
+⚙️ Backend
+  ├── Node.js
+  ├── Express.js
+  ├── REST APIs
+  └── Authentication
+
+🗄️ Database
+  ├── MongoDB
+  ├── MySQL
+  ├── PostgreSQL
+  └── SQL
+
+☁️ Cloud
+  ├── AWS
+  ├── Vercel
+  ├── Netlify
+  └── Deployment
+
+🤖 AI-Assisted Development
+  ├── Antigravity
+  ├── AI Coding Agents
+  ├── AI-Powered Applications
+  └── Full-Stack AI Projects
+
+🚀 Next Level
+  ├── AI / ML
+  ├── AI Full-Stack
+  ├── Cloud Applications
+  └── Intelligent Web Applications
 
 
 
