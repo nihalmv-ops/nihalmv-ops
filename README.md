@@ -13,22 +13,35 @@
 
 ---
 
-About Me
+## 🍇 About Me
 
-js
-const nihal = {
-    name: "Nihal M V",
-    role: "React Frontend Developer",
-    currentlyLearning: [
-        "React",
-        "JavaScript",
-        "Node.js",
-        "Python",
-        "AI / ML"
-    ],
-    focus: "AI + Full-Stack Web Development",
-    goal: "Build real-world intelligent applications"
-};
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=9B5DE5&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Interactive+Experiences+%E2%9A%A1;Building+Modern+Web+Applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+Every+Day+%F0%9F%94%A5" />
+
+</div>
+
+> 💻 I'm a **React Frontend Developer** passionate about creating modern,
+> responsive, and interactive web experiences.
+
+I enjoy transforming ideas into clean and functional applications with
+**React, JavaScript, Tailwind CSS, and modern web technologies.**
+
+Currently, I'm expanding my skills beyond frontend development by learning
+**Node.js, Python, Backend APIs, and AI/ML** — with the goal of becoming an
+**AI-powered Full-Stack Developer.**
+
+### ⚡ What I Do
+
+- 🎨 Build modern & responsive **React interfaces**
+- ⚛️ Create reusable **React components**
+- 🚀 Develop real-world **frontend projects**
+- 🔗 Work with **APIs & backend technologies**
+- 🤖 Explore **AI-powered applications**
+- 🧠 Continuously learn and improve my development skills
+
+
+
 
 ---
 
