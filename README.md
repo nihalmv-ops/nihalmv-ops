@@ -13,20 +13,22 @@
 
 ---
 
-## 👨‍💻 About Me
+About Me
 
-I'm a BCA graduate and aspiring Full-Stack Developer passionate about
-building real-world web applications.
-
-I enjoy turning ideas into clean, responsive and interactive digital
-experiences.
-
-- 🔭 Currently building MERN stack projects
-- 🌱 Learning advanced React, Node.js and MongoDB
-- 💻 Focused on Full-Stack Web Development
-- 🎨 Interested in UI/UX and modern web design
-- 🚀 Interested in building real-world products
-- 📚 Continuously improving my JavaScript skills
+```js
+const nihal = {
+    name: "Nihal M V",
+    role: "React Frontend Developer",
+    currentlyLearning: [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "AI / ML"
+    ],
+    focus: "AI + Full-Stack Web Development",
+    goal: "Build real-world intelligent applications"
+};
 
 ---
 
