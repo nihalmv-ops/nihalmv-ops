@@ -88,28 +88,13 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 ---
 
----
-
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalmv-ops&bg_color=0D1117&color=9B5DE5&line=F15BB5&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
 
 
 
 
-## 📊 GitHub Activity
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihalmv-ops&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmv-ops&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 
 
