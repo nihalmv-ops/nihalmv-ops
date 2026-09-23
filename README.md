@@ -49,82 +49,56 @@ Currently, I'm expanding my skills beyond frontend development by learning
 
 <div align="center">
 
-### 🎨 Frontend Development
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,threejs,gsap" />
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🧊 3D & Motion
+
+<img src="https://skillicons.dev/icons?i=threejs" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
 
 <br><br>
 
-### ⚙️ Backend & Database
+### 🚀 Deployment
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-<br><br>
-
-### 🔧 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,githubpages" />
 
 </div>
-
----
-
-### ⚡ My Development Toolkit
-
-| Area | Technologies |
-|---|---|
-| 🎨 **Frontend** | HTML5 • CSS3 • JavaScript • React • Tailwind CSS |
-| 🧊 **3D & Animation** | Three.js • GSAP |
-| ⚙️ **Backend** | Node.js • Express.js |
-| 🗄️ **Database** | MongoDB |
-| 🔧 **Development** | Git • GitHub • VS Code • npm |
-| 🎨 **Design** | Figma |
-| 🚀 **Deployment** | Vercel • Netlify • GitHub Pages |
-
----
-
-<div align="center">
-
-### 💻 Technologies I Work With
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,git,github,vscode,figma,vercel,netlify" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20Tailwind-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-00A86B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/3D%20%26%20Animation-Three.js%20%7C%20GSAP-FF6B6B?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🚀 Currently Exploring
-
-
-React
-  ├── Advanced Components
-  ├── State Management
-  ├── API Integration
-  └── Performance
-
-JavaScript
-  ├── ES6+
-  ├── Async / Await
-  ├── APIs
-  └── Advanced Concepts
-
-Backend
-  ├── Node.js
-  ├── Express.js
-  ├── REST APIs
-  └── MongoDB
-
-Next Level
-  ├── Python
-  ├── AI / ML
-  └── AI Full-Stack Applications
 
 
 
